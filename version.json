@@ -1,7 +1,7 @@
 {
-    "apk":  "https://github.com/SeGabrielLswf/inducost-releases/releases/download/v1.1.0-b5/Inducost.apk",
-    "build":  5,
+    "apk":  "https://github.com/SeGabrielLswf/inducost-releases/releases/download/v1.1.0-b6/Inducost.apk",
+    "build":  6,
     "version":  "1.1.0",
-    "downloadUrl":  "https://github.com/SeGabrielLswf/inducost-releases/releases/download/v1.1.0-b5/Inducost.apk",
-    "notes":  "El cliente ahora guarda cédula o NIT, y también sale en el PDF."
+    "downloadUrl":  "https://github.com/SeGabrielLswf/inducost-releases/releases/download/v1.1.0-b6/Inducost.apk",
+    "notes":  "El botón Producto queda flotando encima de la vista previa. El PDF llena el espacio que quedaba vacío al final del listado."
 }
