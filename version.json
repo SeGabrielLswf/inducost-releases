@@ -1,7 +1,7 @@
 {
-    "apk":  "https://github.com/SeGabrielLswf/inducost-releases/releases/download/v1.1.0-b4/Inducost.apk",
-    "build":  4,
+    "apk":  "https://github.com/SeGabrielLswf/inducost-releases/releases/download/v1.1.0-b5/Inducost.apk",
+    "build":  5,
     "version":  "1.1.0",
-    "downloadUrl":  "https://github.com/SeGabrielLswf/inducost-releases/releases/download/v1.1.0-b4/Inducost.apk",
-    "notes":  "Prueba de conexión con GitHub. Misma aplicación, compilación nueva para que la campanita avise."
+    "downloadUrl":  "https://github.com/SeGabrielLswf/inducost-releases/releases/download/v1.1.0-b5/Inducost.apk",
+    "notes":  "El cliente ahora guarda cédula o NIT, y también sale en el PDF."
 }
